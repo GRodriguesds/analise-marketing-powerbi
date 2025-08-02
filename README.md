@@ -1,4 +1,4 @@
-# 📊 Análise de Marketing com Power BI
+#  Análise de Marketing com Power BI
 
 Este projeto consiste em um dashboard interativo construído no Power BI com foco em indicadores de marketing, usando dados simulados. O objetivo é aplicar visualização de dados e análise exploratória para acompanhar metas, lucro e desempenho por categoria.
 
@@ -9,14 +9,14 @@ Este projeto consiste em um dashboard interativo construído no Power BI com foc
 - Power Query
 - Excel / CSV
 
-## 🧠 Objetivos do Projeto
+##  Objetivos do Projeto
 
 - Acompanhar o desempenho de lucro ao longo do tempo
 - Verificar a média de custos e lucros por mercado
 - Analisar o impacto do modo de envio nas vendas
 - Monitorar metas mensais de vendas
 
-## 📊 Indicadores Apresentados
+##  Indicadores Apresentados
 
 - Vendas por Modo de Envio (Gráfico de Cascata)
 - Média de Custo por Mercado (Treemap)
@@ -24,7 +24,7 @@ Este projeto consiste em um dashboard interativo construído no Power BI com foc
 - Média de Lucro por Mercado (Pizza)
 - Margem de Lucro ao Longo do Tempo (Linha Temporal)
 
-## 📷 Imagem do Dashboard
+##  Imagem do Dashboard
 
 ![Dashboard de Marketing](imagens/dashboard.png)
 ---
