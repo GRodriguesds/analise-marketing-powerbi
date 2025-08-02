@@ -2,7 +2,7 @@
 
 Este projeto consiste em um dashboard interativo construído no Power BI com foco em indicadores de marketing, usando dados simulados. O objetivo é aplicar visualização de dados e análise exploratória para acompanhar metas, lucro e desempenho por categoria.
 
-## 🔧 Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - Power BI
 - DAX (Data Analysis Expressions)
