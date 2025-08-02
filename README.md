@@ -9,6 +9,13 @@ Este projeto consiste em um dashboard interativo construído no Power BI com foc
 - Power Query
 - Excel / CSV
 
+## Como Abrir o Projeto
+
+1. Faça o download do arquivo `Dashboard.pbix` presente no repositório.
+2. Abra o arquivo utilizando o [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/).
+3. Os dados utilizados estão disponíveis na pasta `Base-Dados`, no arquivo `dados_marketing.csv`.
+4. Caso deseje visualizar o dashboard sem abrir o Power BI, acesse a imagem na pasta `imagens`.
+
 ##  Objetivos do Projeto
 
 - Acompanhar o desempenho de lucro ao longo do tempo
