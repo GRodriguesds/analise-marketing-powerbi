@@ -26,7 +26,7 @@ Este projeto consiste em um dashboard interativo construído no Power BI com foc
 
 ##  Imagem do Dashboard
 
-![Dashboard de Marketing](imagens/dashboard.png)
+![Dashboard de Marketing](imagens/imagens-dashboard-marketing.png)
 ---
 
 > Projeto criado por Gabriel F. Rodrigues de Souza – Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados.
